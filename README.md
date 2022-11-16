@@ -1,7 +1,7 @@
 # DEL-GAL
-predict.py, for predicting the proability of being a superionic conductor.
+predict.py, for predicting the probability of being a superionic conductor.
 train.py, for training new custom model.
-opt.py, for imporving the proabilitu by optimizing the chemical component.
+opt.py, for imporving the probabilitu by optimizing the chemical component.
 
 Examples:
 
