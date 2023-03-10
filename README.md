@@ -1,4 +1,4 @@
-# DEL-GAL
+# IonML
 predict.py, for predicting the probability of being a superionic conductor.
 train.py, for training new custom model.
 opt.py, for imporving the probabilitu by optimizing the chemical component.
