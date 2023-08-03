@@ -11,5 +11,6 @@ LiBF-CONTCATR.cif, run predict.py
 
 
 Please cite:
-Zhilong Wang, Jing Gao, Kehao Tao, Yanqiang Han, An Chen, Jinjin Li. IonML: A physically inspired machine learning platform to directed design superionic conductors Energy Storage Materials (2023). https://doi.org/10.1016/j.ensm.2023.102781
+Zhilong Wang, Jing Gao, Kehao Tao, Yanqiang Han, An Chen, Jinjin Li. IonML: A physically inspired machine learning platform to directed design superionic conductors Energy Storage Materials 59 102781 (2023). Cover Image
+https://doi.org/10.1016/j.ensm.2023.102781
 
